@@ -20,7 +20,7 @@ The establishment of a legal entity for our community that is able to legally is
 
 ## Marketing&#x20;
 
-We will want to partner with other decentralized organizations and news outlets to get into the public's perspective. This funding will be used for that. $30,000 is the estimated cost. We will work with decentralized organizations as much as possible with this, such as [Cre8r.](https://cre8r.vip/)
+We will want to partner with other decentralized organizations and news outlets to get into the public's perspective. This funding will be used for that. $30,000 is the estimated cost. For further information on our marketing strategy see [community outreach](../community-outreach.md). We will work with decentralized organizations as much as possible with this, such as [Cre8r.](https://cre8r.vip/)
 
 ## Contingencies&#x20;
 
