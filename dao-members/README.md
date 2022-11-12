@@ -1,5 +1,9 @@
 # DAO Members
 
+## NFT Artists
+
+We value the art that artists put on our marketplace. We curate the artists that are able to list NFTs on our marketplace. The marketplace founders are each given 20 invites to send out to people that they think would create at least 1 NFT on our marketplace. If the person accepts the invitation to create they are sent an email with two further invite links that they can send to people they think would be great artists on the marketplace. This system allows for organic growth and network effect (community curation) of artists on our marketplace.&#x20;
+
 ## General Members
 
 Once a visitor has a FeNXT NFT that has some FeNXT token charged in it, they are able to vote on governance proposals.&#x20;
