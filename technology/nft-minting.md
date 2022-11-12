@@ -1,3 +1,3 @@
-# NFT Minting Protocol
+# NFT Minting
 
-The NFT minting process can be used in other markets cross chain to support public good.
+The NFT minting process can be used in other markets cross chain to support regenerative activities.

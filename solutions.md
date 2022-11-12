@@ -1,6 +1,6 @@
 # Solutions
 
-NFTs to be able to increase and or maintain their value over time, the world needs more art evocative art that changes the way people think about society, the environment and the world around them, and in real life public good organizations need more funding.
+NFTs need to be able to increase and or maintain their value over time, the world needs more art evocative art that changes the way people think about society, the environment and the world around them, and in real life public good organizations need more funding.
 
 ## ROI For Public Good
 
