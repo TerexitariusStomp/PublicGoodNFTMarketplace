@@ -1,12 +1,6 @@
 # Revenue Sources
 
-## Transaction Fee <a href="#transaction-fee" id="transaction-fee"></a>
 
-Primary revenue source will be a percentage fee placed on the trading of NFTs. Well known marketplaces (Rarible, Opensea) charge a 2.5% fee, our marketplace will charge a 1% fee for the maintenance of the marketplace and a 1% fee to go to public good projects. This fee may be eliminated altogether if other revenue sources prove viable and the DAO deems it appropriate.
-
-## Marketing <a href="#marketing" id="marketing"></a>
-
-Another revenue source is the marketing featured projects. People can pay (implementing organizations of regenerative activities, artists) to have their NFT record featured in well traveled areas of the marketplace.
 
 ## Future Potential Revenue Sources <a href="#pay-per-look-watch-listen" id="pay-per-look-watch-listen"></a>
 

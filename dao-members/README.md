@@ -1,14 +1,13 @@
 # DAO Members
 
-General Members
+## General Members
 
-The additional information that general DAO members are able to access are anonymized and generalized versions of user histories and interaction with the platform. They are also able to vote on governance proposals.&#x20;
+Once a visitor has a FeNXT NFT that has some FeNXT token charged in it, they are able to vote on governance proposals.&#x20;
 
-Human Verified&#x20;
+## Human Verified&#x20;
 
-These DAO members are able to access what General DAO Members are able to access as well as they have the ability to respond to customer service tickets and create suggestions to updates on the customer service bot.&#x20;
+We use anti-sybil technologies (like [Proof of Humanity](https://www.proofofhumanity.id/)) to verify unique members of our community. Once verified these DAO members are able to do what General DAO Members are able to as well as access create suggestions to updates on the customer service bot and create governance forum posts.&#x20;
 
-Core
+## Core
 
-The DAO core team has access to any data from the Akorn Marketplace and the ability to modify the marketplace or accept suggestions for the modification of the Akorn Marketplace. They also have the ability to let lower verification levels of the DAO access data generated.
-
+The DAO core team has the ability to modify the marketplace or accept suggestions for the modification of the marketplace. There are designated members of the core team that respond to customer service tickets. If enough DAO contributions are noted of a Human Verified DAO member, that member can become part of the core DAO.&#x20;

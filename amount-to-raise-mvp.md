@@ -1,4 +1,6 @@
-# Fund Use
+# Amount to Raise- MVP
+
+We are needing to raise $150,000 for the creation of an MVP for this marketplace. The fund use is described below.&#x20;
 
 ## Development&#x20;
 
@@ -14,16 +16,12 @@ Avano contracted Raid Guild for a design sprint of a public good NFT marketplace
 
 ## Operations&#x20;
 
-The establishment of a legal entity for our community that is able to legally issue tokens and comply with regulations will need to be done. This funding is used to recoup these expenses (as the establishment will occur before the distribution of tokens) as well as the continuation of these operations.&#x20;
+The establishment of a legal entity for our community that is able to legally issue tokens and comply with regulations will need to be done. This funding is used to recoup these expenses (as the establishment will occur before the distribution of tokens). $20,0000 is the estimated cost if done through [Otonomos](https://otonomos.com/order/8/new) or another such organization.
 
 ## Marketing&#x20;
 
-We will want to partner with other decentralized organizations and news outlets to get into the public's perspective. This funding will be used for that.&#x20;
-
-## Legal Framework&#x20;
-
-To make sure we comply with the legal regulations applicable we will hire a legal team. This funding will be used to cover legal expenses.&#x20;
+We will want to partner with other decentralized organizations and news outlets to get into the public's perspective. This funding will be used for that. $30,000 is the estimated cost. We will work with decentralized organizations as much as possible with this, such as [Cre8r.](https://cre8r.vip/)
 
 ## Contingencies&#x20;
 
-Any unexpected costs should be covered in the contingencies budget.
+Any unexpected costs should be covered in the contingencies budget. The initial budget for the MVP is $5,775&#x20;
