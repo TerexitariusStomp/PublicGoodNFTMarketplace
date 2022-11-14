@@ -66,7 +66,7 @@
 * [Forking Benefits](forking-benefits.md)
 * [In Real Life Entity](in-real-life-entity.md)
 * [Future Improvements](future-improvements/README.md)
-  * [Rise from the Ashes](future-improvements/rise-from-the-ashes.md)
+  * [FeNXT NFT](future-improvements/fenxt-nft.md)
   * [Quadratic Funding](fund-use/quadratic-funding.md)
   * [NFT Licensing](technology/nft-licensing.md)
   * [DEX](future-improvements/dex.md)
