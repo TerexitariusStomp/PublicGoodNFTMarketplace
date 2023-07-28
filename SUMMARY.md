@@ -12,6 +12,7 @@
   * [Royalties](revenue-sources/royalties.md)
   * [Marketing](revenue-sources/marketing.md)
   * [Transaction Fee](revenue-sources/transaction-fee.md)
+  * [Future Potential Revenue Sources](revenue-sources/future-potential-revenue-sources.md)
 * [Token Distribution](token-distribution.md)
 * [Pages](pages.md)
   * [Landing](pages/landing/README.md)
